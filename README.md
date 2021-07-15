@@ -1,2 +1,2 @@
 # Ruby-Exercises
-Ruby Exercises mostly  from OpenAppAcademy.
+Ruby Exercises mainly  from OpenAppAcademy.
